@@ -245,4 +245,4 @@ left join batalhas
 on personagens.id_personagem = batalhas.id_personagem
 left join universos
 on batalhas.id_universo = universos.id_universo;
-```
+`
