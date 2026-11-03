@@ -1,4 +1,3 @@
-```sql
 create database db_animeadventures;
 use db_animeadventures;
 
@@ -28,11 +27,11 @@ create table universos (
 );
 
 insert into universos (id_universo,nome_anime,categoria) values
-(1, 'zzz', 'Acao'),
+(1, 'zzz', 'acao'),
 (2, 'bleach', 'luta'),
-(3, 'fate', 'Acao'),
-(4, 'bungou stray dogs', 'Acao'),
-(5, 'jojo bizarre adventure', 'Fantasia'),
+(3, 'fate', 'acao'),
+(4, 'bungou stray dogs', 'acao'),
+(5, 'jojo bizarre adventure', 'fantasia'),
 (6, 'black clover', 'luta'),
 (7, 'record of ragnarok', 'luta'),
 (8, 'sakamoto days', 'luta'),
